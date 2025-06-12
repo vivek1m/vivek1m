@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Vivek Sharma</h1>
-<h3 align="center">Passionate Data Scientist | Machine Learning Enthusiast | Computer Vision Developer</h3>
+<h3 align="center">Passionate Data Scientist | Machine Learning Enthusias | Computer Vision Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Turning+data+into+insights;Empowering+AI+through+code;Lifelong+learner+in+tech&center=true&width=500&height=45">
