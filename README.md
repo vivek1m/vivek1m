@@ -136,6 +136,22 @@
 </table>
 
 ---
+## 🚀 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=viveksharma&show_icons=true&theme=radical&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=viveksharma&theme=radical&hide_border=false" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viveksharma&layout=compact&theme=radical&langs_count=8" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viveksharma&theme=radical" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=viveksharma&theme=darkhub&row=1&column=7" />
+</p>
+
 
 ## 🤝 Connect with Me
 
