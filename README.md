@@ -136,22 +136,24 @@
 </table>
 
 ---
-## 🚀 GitHub Stats
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viveksharma&show_icons=true&theme=radical&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=viveksharma&theme=radical&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vivek1m&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vivek1m&theme=radical&hide_border=false" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viveksharma&layout=compact&theme=radical&langs_count=8" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viveksharma&theme=radical" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek1m&layout=compact&theme=radical&langs_count=8" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vivek1m&theme=radical" width="48%">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=viveksharma&theme=darkhub&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vivek1m&theme=darkhub&row=1&column=7" />
 </p>
 
+---
 
 ## 🤝 Connect with Me
 
