@@ -68,7 +68,7 @@
 ## 📈 GitHub Love
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivek1m&show_icons=true&theme=tokyonight&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vivek1m&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=vivek1m&theme=tokyonight&hide_border=false" width="48%" />
 </p>
 <p align="center">
